@@ -1,0 +1,821 @@
+2026-09-23 19:39:07,342 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 19:39:07,448 INFO root: Бот @botfurmebot запущен
+2026-09-23 19:39:07,448 INFO aiogram.dispatcher: Start polling
+2026-09-23 19:39:07,562 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 19:39:07,810 INFO aiogram.event: Update id=300356951 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-23 19:39:07,810 INFO aiogram.event: Update id=300356953 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-23 19:39:07,813 INFO aiogram.event: Update id=300356969 is handled. Duration 0 ms by bot id=8691277340
+2026-09-23 19:39:07,824 INFO aiogram.event: Update id=300356937 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,825 INFO aiogram.event: Update id=300356938 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,825 INFO aiogram.event: Update id=300356939 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,825 INFO aiogram.event: Update id=300356940 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,825 INFO aiogram.event: Update id=300356942 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,825 INFO aiogram.event: Update id=300356943 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356944 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356945 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356946 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356947 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356948 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356949 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356950 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356952 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356954 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356955 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356956 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356957 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,826 INFO aiogram.event: Update id=300356958 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,827 INFO aiogram.event: Update id=300356959 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,827 INFO aiogram.event: Update id=300356960 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,827 INFO aiogram.event: Update id=300356961 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,827 INFO aiogram.event: Update id=300356962 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,827 INFO aiogram.event: Update id=300356963 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,827 INFO aiogram.event: Update id=300356964 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,827 INFO aiogram.event: Update id=300356965 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,827 INFO aiogram.event: Update id=300356966 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,827 INFO aiogram.event: Update id=300356967 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:07,827 INFO aiogram.event: Update id=300356968 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 19:39:08,203 INFO aiogram.event: Update id=300356941 is handled. Duration 390 ms by bot id=8691277340
+2026-09-23 19:39:08,228 INFO aiogram.event: Update id=300356972 is handled. Duration 421 ms by bot id=8691277340
+2026-09-23 19:39:08,268 INFO aiogram.event: Update id=300356970 is handled. Duration 452 ms by bot id=8691277340
+2026-09-23 19:39:08,332 INFO aiogram.event: Update id=300356971 is handled. Duration 515 ms by bot id=8691277340
+2026-09-23 19:39:08,353 INFO aiogram.event: Update id=300356973 is handled. Duration 546 ms by bot id=8691277340
+2026-09-23 19:39:24,964 INFO aiogram.event: Update id=300356974 is handled. Duration 265 ms by bot id=8691277340
+2026-09-23 19:39:35,019 INFO aiogram.event: Update id=300356975 is handled. Duration 250 ms by bot id=8691277340
+2026-09-23 19:39:36,671 INFO aiogram.event: Update id=300356976 is handled. Duration 296 ms by bot id=8691277340
+2026-09-23 19:39:43,576 INFO aiogram.event: Update id=300356977 is handled. Duration 609 ms by bot id=8691277340
+2026-09-23 19:40:23,190 INFO aiogram.event: Update id=300356978 is handled. Duration 0 ms by bot id=8691277340
+2026-09-23 19:40:23,292 INFO aiogram.event: Update id=300356979 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-23 19:40:29,212 INFO aiogram.event: Update id=300356980 is handled. Duration 0 ms by bot id=8691277340
+2026-09-23 19:40:55,416 INFO aiogram.event: Update id=300356981 is handled. Duration 0 ms by bot id=8691277340
+2026-09-23 19:41:06,281 INFO aiogram.event: Update id=300356982 is handled. Duration 0 ms by bot id=8691277340
+2026-09-23 19:41:10,763 INFO aiogram.event: Update id=300356983 is handled. Duration 171 ms by bot id=8691277340
+2026-09-23 19:41:15,983 INFO aiogram.event: Update id=300356984 is handled. Duration 155 ms by bot id=8691277340
+2026-09-23 19:41:22,045 INFO aiogram.event: Update id=300356985 is handled. Duration 0 ms by bot id=8691277340
+2026-09-23 19:41:44,465 INFO aiogram.event: Update id=300356986 is handled. Duration 140 ms by bot id=8691277340
+2026-09-23 19:41:58,042 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 19:41:58,153 INFO root: Бот @botfurmebot запущен
+2026-09-23 19:41:58,153 INFO aiogram.dispatcher: Start polling
+2026-09-23 19:41:58,259 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 19:41:58,916 INFO aiogram.event: Update id=300356989 is handled. Duration 532 ms by bot id=8691277340
+2026-09-23 19:42:01,361 INFO aiogram.event: Update id=300356988 is handled. Duration 2969 ms by bot id=8691277340
+2026-09-23 19:42:08,946 INFO aiogram.event: Update id=300356990 is handled. Duration 296 ms by bot id=8691277340
+2026-09-23 19:42:11,994 INFO aiogram.event: Update id=300356991 is handled. Duration 282 ms by bot id=8691277340
+2026-09-23 19:42:14,211 INFO aiogram.event: Update id=300356992 is handled. Duration 265 ms by bot id=8691277340
+2026-09-23 19:42:23,041 INFO aiogram.event: Update id=300356993 is handled. Duration 296 ms by bot id=8691277340
+2026-09-23 19:42:27,513 INFO aiogram.event: Update id=300356994 is handled. Duration 296 ms by bot id=8691277340
+2026-09-23 19:42:30,991 INFO aiogram.event: Update id=300356995 is handled. Duration 407 ms by bot id=8691277340
+2026-09-23 19:42:34,154 INFO aiogram.event: Update id=300356996 is handled. Duration 530 ms by bot id=8691277340
+2026-09-23 19:42:37,691 INFO aiogram.event: Update id=300356997 is handled. Duration 405 ms by bot id=8691277340
+2026-09-23 19:42:41,872 INFO aiogram.event: Update id=300356998 is handled. Duration 860 ms by bot id=8691277340
+2026-09-23 19:43:41,198 INFO aiogram.event: Update id=300356999 is handled. Duration 2469 ms by bot id=8691277340
+2026-09-23 19:43:47,277 INFO aiogram.event: Update id=300357000 is handled. Duration 405 ms by bot id=8691277340
+2026-09-23 19:44:00,096 INFO aiogram.event: Update id=300357001 is handled. Duration 2484 ms by bot id=8691277340
+2026-09-23 19:44:06,985 INFO aiogram.event: Update id=300357002 is handled. Duration 2469 ms by bot id=8691277340
+2026-09-23 19:44:13,765 INFO aiogram.event: Update id=300357003 is handled. Duration 2483 ms by bot id=8691277340
+2026-09-23 19:44:20,650 INFO app.events: Админ 8245827726 не открыл личку с ботом
+2026-09-23 19:44:20,651 INFO aiogram.event: Update id=300357004 is handled. Duration 3016 ms by bot id=8691277340
+2026-09-23 19:46:10,950 INFO app.events: Не удалось замутить 7292522360 в -1003953236351: Telegram server says - Bad Request: can't remove chat owner
+2026-09-23 19:47:45,116 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 19:47:45,227 INFO root: Бот @botfurmebot запущен
+2026-09-23 19:47:45,227 INFO aiogram.dispatcher: Start polling
+2026-09-23 19:47:45,334 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 19:50:19,127 INFO aiogram.event: Update id=300357005 is handled. Duration 390 ms by bot id=8691277340
+2026-09-23 19:54:26,788 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 19:54:26,895 INFO root: Бот @botfurmebot запущен
+2026-09-23 19:54:26,895 INFO aiogram.dispatcher: Start polling
+2026-09-23 19:54:26,998 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 19:54:55,145 INFO aiogram.event: Update id=300357006 is handled. Duration 1922 ms by bot id=8691277340
+2026-09-23 19:55:00,496 INFO aiogram.event: Update id=300357007 is handled. Duration 156 ms by bot id=8691277340
+2026-09-23 19:55:07,265 INFO aiogram.event: Update id=300357008 is handled. Duration 343 ms by bot id=8691277340
+2026-09-23 19:55:07,303 INFO aiogram.event: Update id=300357009 is not handled. Duration 14 ms by bot id=8691277340
+2026-09-23 19:55:44,861 INFO aiogram.event: Update id=300357010 is handled. Duration 2484 ms by bot id=8691277340
+2026-09-23 19:56:38,757 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 19:56:38,857 INFO root: Бот @botfurmebot запущен
+2026-09-23 19:56:38,858 INFO aiogram.dispatcher: Start polling
+2026-09-23 19:56:38,957 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:00:42,244 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:00:42,360 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:00:42,360 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:00:42,473 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:01:07,948 INFO aiogram.event: Update id=300357011 is handled. Duration 422 ms by bot id=8691277340
+2026-09-23 20:01:19,869 INFO aiogram.event: Update id=300357012 is handled. Duration 2515 ms by bot id=8691277340
+2026-09-23 20:03:09,784 INFO app.events: Не удалось замутить 7292522360 в -1003953236351: Telegram server says - Bad Request: can't remove chat owner
+2026-09-23 20:04:27,986 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:04:28,185 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:04:28,185 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:04:28,419 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:04:59,722 INFO aiogram.event: Update id=300357013 is handled. Duration 2686 ms by bot id=8691277340
+2026-09-23 20:06:31,406 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:06:31,525 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:06:31,526 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:06:31,621 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:07:57,724 INFO aiogram.event: Update id=300357014 is handled. Duration 5984 ms by bot id=8691277340
+2026-09-23 20:08:18,520 INFO aiogram.event: Update id=300357016 is handled. Duration 109 ms by bot id=8691277340
+2026-09-23 20:08:19,684 INFO aiogram.event: Update id=300357015 is handled. Duration 2296 ms by bot id=8691277340
+2026-09-23 20:08:19,738 INFO aiogram.event: Update id=300357017 is handled. Duration 109 ms by bot id=8691277340
+2026-09-23 20:08:23,070 INFO aiogram.event: Update id=300357019 is handled. Duration 125 ms by bot id=8691277340
+2026-09-23 20:08:23,543 INFO aiogram.event: Update id=300357018 is handled. Duration 2313 ms by bot id=8691277340
+2026-09-23 20:08:26,310 INFO aiogram.event: Update id=300357021 is handled. Duration 108 ms by bot id=8691277340
+2026-09-23 20:08:26,911 INFO aiogram.event: Update id=300357020 is handled. Duration 2313 ms by bot id=8691277340
+2026-09-23 20:08:31,675 INFO aiogram.event: Update id=300357023 is handled. Duration 110 ms by bot id=8691277340
+2026-09-23 20:08:31,835 INFO aiogram.event: Update id=300357022 is handled. Duration 2327 ms by bot id=8691277340
+2026-09-23 20:08:54,316 INFO aiogram.event: Update id=300357024 is handled. Duration 2296 ms by bot id=8691277340
+2026-09-23 20:08:59,568 INFO app.events: Не удалось замутить 7292522360 в -1003953236351: Telegram server says - Bad Request: can't remove chat owner
+2026-09-23 20:08:59,733 INFO aiogram.event: Update id=300357025 is handled. Duration 390 ms by bot id=8691277340
+2026-09-23 20:09:16,609 INFO aiogram.event: Update id=300357026 is handled. Duration 155 ms by bot id=8691277340
+2026-09-23 20:17:47,131 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-23 20:17:47,131 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-23 20:17:58,440 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8691277340)
+2026-09-23 20:18:49,624 INFO aiogram.event: Update id=300357027 is handled. Duration 2796 ms by bot id=8691277340
+2026-09-23 20:19:53,090 INFO app.events: Не удалось замутить 7292522360 в -1003953236351: Telegram server says - Bad Request: can't remove chat owner
+2026-09-23 20:21:32,705 INFO aiogram.event: Update id=300357028 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-23 20:25:47,492 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:25:47,603 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:25:47,603 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:25:47,703 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:28:21,395 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-23 20:28:21,396 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-23 20:28:22,405 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-09-23 20:28:22,405 WARNING aiogram.dispatcher: Sleep for 1.214476 seconds and try again... (tryings = 1, bot id = 8691277340)
+2026-09-23 20:28:33,982 INFO aiogram.dispatcher: Connection established (tryings = 2, bot id = 8691277340)
+2026-09-23 20:28:57,541 INFO aiogram.event: Update id=300357029 is handled. Duration 360 ms by bot id=8691277340
+2026-09-23 20:29:02,094 INFO aiogram.event: Update id=300357030 is handled. Duration 125 ms by bot id=8691277340
+2026-09-23 20:29:03,383 INFO aiogram.event: Update id=300357031 is handled. Duration 172 ms by bot id=8691277340
+2026-09-23 20:29:04,690 INFO aiogram.event: Update id=300357032 is handled. Duration 108 ms by bot id=8691277340
+2026-09-23 20:29:06,731 INFO aiogram.event: Update id=300357033 is handled. Duration 140 ms by bot id=8691277340
+2026-09-23 20:29:09,139 INFO aiogram.event: Update id=300357034 is handled. Duration 125 ms by bot id=8691277340
+2026-09-23 20:29:24,018 INFO aiogram.event: Update id=300357035 is handled. Duration 2453 ms by bot id=8691277340
+2026-09-23 20:29:33,182 INFO aiogram.event: Update id=300357036 is handled. Duration 2500 ms by bot id=8691277340
+2026-09-23 20:29:49,243 INFO aiogram.event: Update id=300357037 is handled. Duration 546 ms by bot id=8691277340
+2026-09-23 20:31:51,078 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:31:51,221 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:31:51,221 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:31:51,515 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:32:21,604 INFO aiogram.event: Update id=300357038 is handled. Duration 2686 ms by bot id=8691277340
+2026-09-23 20:32:31,020 INFO aiogram.event: Update id=300357039 is handled. Duration 2468 ms by bot id=8691277340
+2026-09-23 20:32:39,171 INFO app.events: Админ 8245827726 не открыл личку с ботом
+2026-09-23 20:32:39,173 INFO aiogram.event: Update id=300357040 is handled. Duration 3203 ms by bot id=8691277340
+2026-09-23 20:32:49,333 INFO aiogram.event: Update id=300357041 is handled. Duration 2485 ms by bot id=8691277340
+2026-09-23 20:32:56,742 INFO aiogram.event: Update id=300357042 is handled. Duration 2468 ms by bot id=8691277340
+2026-09-23 20:33:03,130 INFO aiogram.event: Update id=300357043 is handled. Duration 2484 ms by bot id=8691277340
+2026-09-23 20:33:09,562 INFO aiogram.event: Update id=300357044 is handled. Duration 2750 ms by bot id=8691277340
+2026-09-23 20:33:16,382 INFO aiogram.event: Update id=300357045 is handled. Duration 2547 ms by bot id=8691277340
+2026-09-23 20:33:22,559 INFO aiogram.event: Update id=300357046 is handled. Duration 2780 ms by bot id=8691277340
+2026-09-23 20:33:28,672 INFO aiogram.event: Update id=300357047 is handled. Duration 2485 ms by bot id=8691277340
+2026-09-23 20:34:09,634 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:34:09,730 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:34:09,731 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:34:09,827 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:34:28,247 INFO app.events: Админ 8245827726 не открыл личку с ботом
+2026-09-23 20:34:28,247 INFO aiogram.event: Update id=300357049 is handled. Duration 3140 ms by bot id=8691277340
+2026-09-23 20:34:55,508 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:34:55,616 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:34:55,616 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:34:55,722 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:35:10,489 INFO aiogram.event: Update id=300357050 is handled. Duration 2875 ms by bot id=8691277340
+2026-09-23 20:35:18,567 INFO aiogram.event: Update id=300357051 is handled. Duration 2483 ms by bot id=8691277340
+2026-09-23 20:35:24,982 INFO aiogram.event: Update id=300357052 is handled. Duration 2500 ms by bot id=8691277340
+2026-09-23 20:35:37,824 INFO aiogram.event: Update id=300357053 is handled. Duration 172 ms by bot id=8691277340
+2026-09-23 20:35:43,513 INFO aiogram.event: Update id=300357054 is handled. Duration 172 ms by bot id=8691277340
+2026-09-23 20:35:46,521 INFO aiogram.event: Update id=300357055 is handled. Duration 297 ms by bot id=8691277340
+2026-09-23 20:35:51,199 INFO aiogram.event: Update id=300357056 is handled. Duration 281 ms by bot id=8691277340
+2026-09-23 20:35:53,134 INFO aiogram.event: Update id=300357057 is handled. Duration 281 ms by bot id=8691277340
+2026-09-23 20:36:03,073 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 64] Указанное сетевое имя более недоступно
+2026-09-23 20:36:03,074 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-23 20:36:12,993 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8691277340)
+2026-09-23 20:36:15,723 INFO aiogram.event: Update id=300357058 is handled. Duration 2718 ms by bot id=8691277340
+2026-09-23 20:36:21,945 INFO aiogram.event: Update id=300357059 is handled. Duration 2469 ms by bot id=8691277340
+2026-09-23 20:36:26,966 INFO aiogram.event: Update id=300357060 is handled. Duration 2671 ms by bot id=8691277340
+2026-09-23 20:36:31,057 INFO aiogram.event: Update id=300357061 is handled. Duration 3750 ms by bot id=8691277340
+2026-09-23 20:36:33,899 INFO aiogram.event: Update id=300357062 is handled. Duration 2844 ms by bot id=8691277340
+2026-09-23 20:36:34,131 INFO aiogram.event: Update id=300357063 is handled. Duration 125 ms by bot id=8691277340
+2026-09-23 20:36:44,769 INFO aiogram.event: Update id=300357064 is handled. Duration 109 ms by bot id=8691277340
+2026-09-23 20:37:10,793 INFO aiogram.event: Update id=300357065 is handled. Duration 328 ms by bot id=8691277340
+2026-09-23 20:37:12,796 INFO aiogram.event: Update id=300357066 is handled. Duration 485 ms by bot id=8691277340
+2026-09-23 20:37:16,564 INFO aiogram.event: Update id=300357067 is handled. Duration 983 ms by bot id=8691277340
+2026-09-23 20:37:20,839 INFO aiogram.event: Update id=300357068 is handled. Duration 281 ms by bot id=8691277340
+2026-09-23 20:37:28,182 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2026-09-23 20:37:28,182 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-23 20:37:29,543 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8691277340)
+2026-09-23 20:37:30,046 INFO aiogram.event: Update id=300357069 is handled. Duration 500 ms by bot id=8691277340
+2026-09-23 20:37:35,141 INFO aiogram.event: Update id=300357070 is handled. Duration 343 ms by bot id=8691277340
+2026-09-23 20:37:40,242 INFO aiogram.event: Update id=300357071 is handled. Duration 313 ms by bot id=8691277340
+2026-09-23 20:37:41,722 INFO aiogram.event: Update id=300357072 is handled. Duration 281 ms by bot id=8691277340
+2026-09-23 20:37:42,971 INFO aiogram.event: Update id=300357073 is handled. Duration 250 ms by bot id=8691277340
+2026-09-23 20:37:44,545 INFO aiogram.event: Update id=300357074 is handled. Duration 250 ms by bot id=8691277340
+2026-09-23 20:37:48,252 INFO aiogram.event: Update id=300357075 is handled. Duration 343 ms by bot id=8691277340
+2026-09-23 20:37:52,092 INFO aiogram.event: Update id=300357076 is handled. Duration 281 ms by bot id=8691277340
+2026-09-23 20:37:55,796 INFO aiogram.event: Update id=300357077 is handled. Duration 156 ms by bot id=8691277340
+2026-09-23 20:38:00,355 INFO aiogram.event: Update id=300357078 is handled. Duration 265 ms by bot id=8691277340
+2026-09-23 20:38:02,907 INFO aiogram.event: Update id=300357079 is handled. Duration 265 ms by bot id=8691277340
+2026-09-23 20:38:05,260 INFO aiogram.event: Update id=300357080 is handled. Duration 311 ms by bot id=8691277340
+2026-09-23 20:38:08,788 INFO aiogram.event: Update id=300357081 is handled. Duration 265 ms by bot id=8691277340
+2026-09-23 20:38:12,916 INFO aiogram.event: Update id=300357082 is handled. Duration 313 ms by bot id=8691277340
+2026-09-23 20:38:34,626 INFO aiogram.event: Update id=300357083 is handled. Duration 688 ms by bot id=8691277340
+2026-09-23 20:39:12,837 INFO aiogram.event: Update id=300357084 is handled. Duration 625 ms by bot id=8691277340
+2026-09-23 20:39:28,719 INFO aiogram.event: Update id=300357085 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-23 20:39:31,241 INFO aiogram.event: Update id=300357086 is handled. Duration 171 ms by bot id=8691277340
+2026-09-23 20:39:39,998 INFO aiogram.event: Update id=300357087 is handled. Duration 156 ms by bot id=8691277340
+2026-09-23 20:39:48,326 INFO aiogram.event: Update id=300357088 is handled. Duration 156 ms by bot id=8691277340
+2026-09-23 20:39:56,018 INFO aiogram.event: Update id=300357089 is handled. Duration 686 ms by bot id=8691277340
+2026-09-23 20:40:12,806 INFO aiogram.event: Update id=300357090 is handled. Duration 375 ms by bot id=8691277340
+2026-09-23 20:40:14,579 INFO aiogram.event: Update id=300357091 is handled. Duration 266 ms by bot id=8691277340
+2026-09-23 20:40:35,363 INFO aiogram.event: Update id=300357092 is handled. Duration 265 ms by bot id=8691277340
+2026-09-23 20:40:40,188 INFO aiogram.event: Update id=300357093 is handled. Duration 530 ms by bot id=8691277340
+2026-09-23 20:40:42,966 INFO aiogram.event: Update id=300357094 is handled. Duration 281 ms by bot id=8691277340
+2026-09-23 20:41:40,610 INFO aiogram.event: Update id=300357095 is handled. Duration 1061 ms by bot id=8691277340
+2026-09-23 20:42:02,303 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:42:02,402 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:42:02,402 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:42:02,727 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:42:53,412 INFO aiogram.event: Update id=300357096 is handled. Duration 781 ms by bot id=8691277340
+2026-09-23 20:44:32,584 INFO aiogram.event: Update id=300357097 is handled. Duration 2500 ms by bot id=8691277340
+2026-09-23 20:44:42,189 INFO aiogram.event: Update id=300357098 is handled. Duration 155 ms by bot id=8691277340
+2026-09-23 20:48:07,359 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:48:07,494 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:48:07,495 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:48:07,796 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:49:25,796 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:49:26,194 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:49:26,194 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:49:26,743 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:49:27,259 INFO aiogram.event: Update id=300357099 is handled. Duration 281 ms by bot id=8691277340
+2026-09-23 20:49:27,508 INFO aiogram.event: Update id=300357100 is handled. Duration 531 ms by bot id=8691277340
+2026-09-23 20:49:37,259 INFO aiogram.event: Update id=300357101 is handled. Duration 281 ms by bot id=8691277340
+2026-09-23 20:49:46,595 INFO aiogram.event: Update id=300357102 is handled. Duration 250 ms by bot id=8691277340
+2026-09-23 20:49:49,596 INFO aiogram.event: Update id=300357103 is handled. Duration 327 ms by bot id=8691277340
+2026-09-23 20:49:51,450 INFO aiogram.event: Update id=300357104 is handled. Duration 281 ms by bot id=8691277340
+2026-09-23 20:49:56,404 INFO aiogram.event: Update id=300357105 is handled. Duration 265 ms by bot id=8691277340
+2026-09-23 20:49:57,817 INFO aiogram.event: Update id=300357106 is handled. Duration 250 ms by bot id=8691277340
+2026-09-23 20:50:00,803 INFO aiogram.event: Update id=300357107 is handled. Duration 264 ms by bot id=8691277340
+2026-09-23 20:50:08,604 INFO aiogram.event: Update id=300357108 is handled. Duration 297 ms by bot id=8691277340
+2026-09-23 20:50:10,188 INFO aiogram.event: Update id=300357109 is handled. Duration 280 ms by bot id=8691277340
+2026-09-23 20:50:11,704 INFO aiogram.event: Update id=300357110 is handled. Duration 594 ms by bot id=8691277340
+2026-09-23 20:50:13,068 INFO aiogram.event: Update id=300357111 is handled. Duration 547 ms by bot id=8691277340
+2026-09-23 20:50:18,304 INFO aiogram.event: Update id=300357112 is handled. Duration 264 ms by bot id=8691277340
+2026-09-23 20:50:20,937 INFO aiogram.event: Update id=300357113 is handled. Duration 280 ms by bot id=8691277340
+2026-09-23 20:50:22,350 INFO aiogram.event: Update id=300357114 is handled. Duration 265 ms by bot id=8691277340
+2026-09-23 20:50:24,552 INFO aiogram.event: Update id=300357115 is handled. Duration 1250 ms by bot id=8691277340
+2026-09-23 20:50:25,689 INFO aiogram.event: Update id=300357116 is handled. Duration 280 ms by bot id=8691277340
+2026-09-23 20:51:14,769 INFO aiogram.event: Update id=300357117 is handled. Duration 265 ms by bot id=8691277340
+2026-09-23 20:51:22,441 INFO aiogram.event: Update id=300357118 is handled. Duration 280 ms by bot id=8691277340
+2026-09-23 20:54:31,947 INFO aiogram.event: Update id=300357119 is handled. Duration 1110 ms by bot id=8691277340
+2026-09-23 20:54:48,440 INFO aiogram.event: Update id=300357120 is handled. Duration 389 ms by bot id=8691277340
+2026-09-23 20:55:07,583 INFO aiogram.event: Update id=300357121 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-23 20:55:12,776 INFO app.events: Админ 8245827726 не открыл личку с ботом
+2026-09-23 20:56:50,063 INFO aiogram.event: Update id=300357123 is not handled. Duration 14 ms by bot id=8691277340
+2026-09-23 20:56:50,286 INFO aiogram.event: Update id=300357122 is handled. Duration 609 ms by bot id=8691277340
+2026-09-23 20:57:02,597 INFO aiogram.event: Update id=300357124 is handled. Duration 171 ms by bot id=8691277340
+2026-09-23 20:57:05,391 INFO aiogram.event: Update id=300357125 is handled. Duration 375 ms by bot id=8691277340
+2026-09-23 20:57:15,914 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 20:57:16,016 INFO root: Бот @botfurmebot запущен
+2026-09-23 20:57:16,017 INFO aiogram.dispatcher: Start polling
+2026-09-23 20:57:16,119 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 20:57:23,151 INFO aiogram.event: Update id=300357126 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-23 21:01:09,613 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 21:01:09,782 INFO root: Бот @botfurmebot запущен
+2026-09-23 21:01:09,783 INFO aiogram.dispatcher: Start polling
+2026-09-23 21:01:09,991 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 21:01:55,261 INFO aiogram.event: Update id=300357127 is handled. Duration 500 ms by bot id=8691277340
+2026-09-23 21:01:59,890 INFO aiogram.event: Update id=300357128 is handled. Duration 890 ms by bot id=8691277340
+2026-09-23 21:02:01,952 INFO aiogram.event: Update id=300357129 is handled. Duration 422 ms by bot id=8691277340
+2026-09-23 21:02:06,409 INFO aiogram.event: Update id=300357130 is handled. Duration 640 ms by bot id=8691277340
+2026-09-23 21:02:21,728 INFO aiogram.event: Update id=300357132 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-23 21:02:21,934 INFO aiogram.event: Update id=300357131 is handled. Duration 936 ms by bot id=8691277340
+2026-09-23 21:02:30,410 INFO aiogram.event: Update id=300357133 is handled. Duration 219 ms by bot id=8691277340
+2026-09-23 21:02:43,686 INFO aiogram.event: Update id=300357134 is handled. Duration 2202 ms by bot id=8691277340
+2026-09-23 21:02:51,876 INFO aiogram.event: Update id=300357135 is handled. Duration 2202 ms by bot id=8691277340
+2026-09-23 21:02:58,718 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 21:02:58,829 INFO root: Бот @botfurmebot запущен
+2026-09-23 21:02:58,829 INFO aiogram.dispatcher: Start polling
+2026-09-23 21:02:58,983 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 21:02:59,675 INFO aiogram.event: Update id=300357137 is handled. Duration 563 ms by bot id=8691277340
+2026-09-23 21:03:19,271 INFO aiogram.event: Update id=300357138 is handled. Duration 2219 ms by bot id=8691277340
+2026-09-23 21:03:28,652 INFO aiogram.event: Update id=300357139 is handled. Duration 563 ms by bot id=8691277340
+2026-09-23 21:03:47,049 INFO aiogram.event: Update id=300357140 is handled. Duration 531 ms by bot id=8691277340
+2026-09-23 21:04:01,791 INFO aiogram.event: Update id=300357141 is handled. Duration 875 ms by bot id=8691277340
+2026-09-23 21:04:14,456 INFO aiogram.event: Update id=300357142 is handled. Duration 203 ms by bot id=8691277340
+2026-09-23 21:04:20,778 INFO aiogram.event: Update id=300357144 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-23 21:04:20,818 INFO aiogram.event: Update id=300357143 is handled. Duration 547 ms by bot id=8691277340
+2026-09-23 21:05:05,847 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 21:05:05,956 INFO root: Бот @botfurmebot запущен
+2026-09-23 21:05:05,957 INFO aiogram.dispatcher: Start polling
+2026-09-23 21:05:06,069 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 21:06:44,266 INFO aiogram.event: Update id=300357145 is handled. Duration 359 ms by bot id=8691277340
+2026-09-23 21:06:53,037 INFO aiogram.event: Update id=300357146 is handled. Duration 2188 ms by bot id=8691277340
+2026-09-23 21:06:53,585 INFO aiogram.event: Update id=300357147 is handled. Duration 186 ms by bot id=8691277340
+2026-09-23 21:06:57,277 INFO aiogram.event: Update id=300357148 is handled. Duration 2188 ms by bot id=8691277340
+2026-09-23 21:07:00,932 INFO aiogram.event: Update id=300357149 is handled. Duration 2202 ms by bot id=8691277340
+2026-09-23 21:07:51,222 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-23 21:07:51,325 INFO root: Бот @botfurmebot запущен
+2026-09-23 21:07:51,325 INFO aiogram.dispatcher: Start polling
+2026-09-23 21:07:51,506 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-23 21:08:36,064 INFO aiogram.event: Update id=300357150 is handled. Duration 436 ms by bot id=8691277340
+2026-09-23 21:08:50,719 INFO aiogram.event: Update id=300357151 is handled. Duration 171 ms by bot id=8691277340
+2026-09-23 21:09:22,796 INFO aiogram.event: Update id=300357152 is handled. Duration 265 ms by bot id=8691277340
+2026-09-23 21:09:24,700 INFO aiogram.event: Update id=300357153 is handled. Duration 328 ms by bot id=8691277340
+2026-09-23 21:09:28,435 INFO aiogram.event: Update id=300357154 is handled. Duration 264 ms by bot id=8691277340
+2026-09-23 21:09:31,920 INFO aiogram.event: Update id=300357155 is handled. Duration 422 ms by bot id=8691277340
+2026-09-23 21:09:38,121 INFO aiogram.event: Update id=300357156 is handled. Duration 313 ms by bot id=8691277340
+2026-09-23 21:09:40,180 INFO aiogram.event: Update id=300357157 is handled. Duration 468 ms by bot id=8691277340
+2026-09-23 21:09:41,585 INFO aiogram.event: Update id=300357158 is handled. Duration 296 ms by bot id=8691277340
+2026-09-23 21:09:45,745 INFO aiogram.event: Update id=300357159 is handled. Duration 406 ms by bot id=8691277340
+2026-09-23 21:09:47,716 INFO aiogram.event: Update id=300357160 is handled. Duration 311 ms by bot id=8691277340
+2026-09-23 21:09:51,399 INFO aiogram.event: Update id=300357161 is handled. Duration 750 ms by bot id=8691277340
+2026-09-23 21:09:53,664 INFO aiogram.event: Update id=300357162 is handled. Duration 328 ms by bot id=8691277340
+2026-09-23 21:09:56,493 INFO aiogram.event: Update id=300357163 is handled. Duration 281 ms by bot id=8691277340
+2026-09-23 21:09:58,677 INFO aiogram.event: Update id=300357164 is handled. Duration 311 ms by bot id=8691277340
+2026-09-23 21:10:03,550 INFO aiogram.event: Update id=300357165 is handled. Duration 1625 ms by bot id=8691277340
+2026-09-23 21:10:05,963 INFO aiogram.event: Update id=300357166 is handled. Duration 436 ms by bot id=8691277340
+2026-09-23 21:10:11,546 INFO aiogram.event: Update id=300357167 is handled. Duration 1563 ms by bot id=8691277340
+2026-09-23 21:10:12,873 INFO aiogram.event: Update id=300357168 is handled. Duration 313 ms by bot id=8691277340
+2026-09-23 21:10:17,449 INFO aiogram.event: Update id=300357169 is handled. Duration 422 ms by bot id=8691277340
+2026-09-23 21:10:20,910 INFO aiogram.event: Update id=300357170 is handled. Duration 327 ms by bot id=8691277340
+2026-09-23 21:10:22,918 INFO aiogram.event: Update id=300357171 is handled. Duration 875 ms by bot id=8691277340
+2026-09-23 21:10:25,991 INFO aiogram.event: Update id=300357172 is handled. Duration 563 ms by bot id=8691277340
+2026-09-23 21:10:27,932 INFO aiogram.event: Update id=300357173 is handled. Duration 280 ms by bot id=8691277340
+2026-09-24 11:56:51,779 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-24 11:56:51,779 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 11:56:51,783 WARNING app.events: Не удалось завершить ивент в -1003953236351: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 11:56:52,785 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 11:56:52,785 WARNING aiogram.dispatcher: Sleep for 1.143387 seconds and try again... (tryings = 1, bot id = 8691277340)
+2026-09-24 11:56:53,932 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 11:56:53,932 WARNING aiogram.dispatcher: Sleep for 1.559737 seconds and try again... (tryings = 2, bot id = 8691277340)
+2026-09-24 11:56:55,506 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 11:56:55,506 WARNING aiogram.dispatcher: Sleep for 1.934956 seconds and try again... (tryings = 3, bot id = 8691277340)
+2026-09-24 11:58:35,434 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 11:58:35,434 WARNING aiogram.dispatcher: Sleep for 2.432392 seconds and try again... (tryings = 4, bot id = 8691277340)
+2026-09-24 11:58:37,869 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 11:58:37,869 WARNING aiogram.dispatcher: Sleep for 3.314362 seconds and try again... (tryings = 5, bot id = 8691277340)
+2026-09-24 11:58:41,188 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 11:58:41,188 WARNING aiogram.dispatcher: Sleep for 4.435217 seconds and try again... (tryings = 6, bot id = 8691277340)
+2026-09-24 11:58:45,628 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 11:58:45,629 WARNING aiogram.dispatcher: Sleep for 4.796450 seconds and try again... (tryings = 7, bot id = 8691277340)
+2026-09-24 11:58:50,415 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 11:58:50,415 WARNING aiogram.dispatcher: Sleep for 5.126558 seconds and try again... (tryings = 8, bot id = 8691277340)
+2026-09-24 11:59:05,839 INFO aiogram.dispatcher: Connection established (tryings = 9, bot id = 8691277340)
+2026-09-24 12:17:45,532 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2026-09-24 12:17:45,538 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 12:17:58,587 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8691277340)
+2026-09-24 12:28:18,500 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-24 12:28:18,501 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 12:28:29,864 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8691277340)
+2026-09-24 14:06:31,743 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-24 14:06:31,791 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 14:06:43,158 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8691277340)
+2026-09-24 15:21:00,349 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-24 15:21:00,350 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 15:21:01,363 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 15:21:01,363 WARNING aiogram.dispatcher: Sleep for 1.354347 seconds and try again... (tryings = 1, bot id = 8691277340)
+2026-09-24 15:21:02,724 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 15:21:02,725 WARNING aiogram.dispatcher: Sleep for 1.687499 seconds and try again... (tryings = 2, bot id = 8691277340)
+2026-09-24 15:21:04,424 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 15:21:04,424 WARNING aiogram.dispatcher: Sleep for 2.125996 seconds and try again... (tryings = 3, bot id = 8691277340)
+2026-09-24 15:21:06,556 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 15:21:06,556 WARNING aiogram.dispatcher: Sleep for 2.809515 seconds and try again... (tryings = 4, bot id = 8691277340)
+2026-09-24 15:21:09,360 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 15:21:09,361 WARNING aiogram.dispatcher: Sleep for 3.619968 seconds and try again... (tryings = 5, bot id = 8691277340)
+2026-09-24 15:21:13,018 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 15:21:13,019 WARNING aiogram.dispatcher: Sleep for 4.869870 seconds and try again... (tryings = 6, bot id = 8691277340)
+2026-09-24 15:21:17,879 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 15:21:17,879 WARNING aiogram.dispatcher: Sleep for 4.786876 seconds and try again... (tryings = 7, bot id = 8691277340)
+2026-09-24 15:21:22,661 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 15:21:22,661 WARNING aiogram.dispatcher: Sleep for 5.073102 seconds and try again... (tryings = 8, bot id = 8691277340)
+2026-09-24 15:21:27,725 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 15:21:27,725 WARNING aiogram.dispatcher: Sleep for 5.070120 seconds and try again... (tryings = 9, bot id = 8691277340)
+2026-09-24 15:21:43,210 INFO aiogram.dispatcher: Connection established (tryings = 10, bot id = 8691277340)
+2026-09-24 15:22:28,895 INFO aiogram.event: Update id=300357175 is handled. Duration 0 ms by bot id=8691277340
+2026-09-24 15:22:44,381 INFO aiogram.event: Update id=300357176 is handled. Duration 14 ms by bot id=8691277340
+2026-09-24 15:24:15,942 INFO aiogram.event: Update id=300357177 is handled. Duration 0 ms by bot id=8691277340
+2026-09-24 15:24:46,770 INFO aiogram.event: Update id=300357178 is handled. Duration 405 ms by bot id=8691277340
+2026-09-24 15:24:53,684 INFO aiogram.event: Update id=300357180 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 15:24:53,919 INFO aiogram.event: Update id=300357179 is handled. Duration 1032 ms by bot id=8691277340
+2026-09-24 15:25:08,347 INFO aiogram.event: Update id=300357181 is handled. Duration 2187 ms by bot id=8691277340
+2026-09-24 15:28:02,881 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:28:02,982 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:28:02,982 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:28:03,082 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:29:13,176 INFO aiogram.event: Update id=300357182 is handled. Duration 328 ms by bot id=8691277340
+2026-09-24 15:30:35,868 INFO aiogram.event: Update id=300357183 is handled. Duration 110 ms by bot id=8691277340
+2026-09-24 15:30:37,588 INFO aiogram.event: Update id=300357184 is handled. Duration 108 ms by bot id=8691277340
+2026-09-24 15:30:38,257 INFO aiogram.event: Update id=300357185 is handled. Duration 436 ms by bot id=8691277340
+2026-09-24 15:32:51,482 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:32:51,579 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:32:51,580 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:32:51,673 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:37:19,940 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:37:20,058 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:37:20,058 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:37:20,179 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:39:25,577 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:39:25,678 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:39:25,678 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:39:25,777 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:41:21,312 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:41:21,427 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:41:21,428 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:41:21,538 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:43:49,386 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:43:49,503 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:43:49,503 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:43:49,622 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:45:48,418 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:45:48,521 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:45:48,521 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:45:48,623 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:47:26,015 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:47:26,114 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:47:26,114 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:47:26,212 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:51:54,025 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:51:54,179 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:51:54,179 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:51:54,288 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:53:41,858 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:53:41,958 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:53:41,958 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:53:42,055 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:55:48,983 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:55:49,087 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:55:49,087 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:55:49,191 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 15:57:35,772 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 15:57:35,875 INFO root: Бот @botfurmebot запущен
+2026-09-24 15:57:35,875 INFO aiogram.dispatcher: Start polling
+2026-09-24 15:57:35,976 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 16:00:26,353 INFO root: Админ 8245827726 ещё не запускал бота в личке
+2026-09-24 16:00:26,464 INFO root: Бот @botfurmebot запущен
+2026-09-24 16:00:26,464 INFO aiogram.dispatcher: Start polling
+2026-09-24 16:00:26,603 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-24 16:01:11,740 INFO aiogram.event: Update id=300357186 is handled. Duration 421 ms by bot id=8691277340
+2026-09-24 16:01:17,419 INFO aiogram.event: Update id=300357188 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:01:17,508 INFO aiogram.event: Update id=300357187 is handled. Duration 530 ms by bot id=8691277340
+2026-09-24 16:01:29,724 INFO aiogram.event: Update id=300357189 is handled. Duration 139 ms by bot id=8691277340
+2026-09-24 16:01:33,636 INFO aiogram.event: Update id=300357190 is handled. Duration 250 ms by bot id=8691277340
+2026-09-24 16:01:36,216 INFO aiogram.event: Update id=300357191 is handled. Duration 281 ms by bot id=8691277340
+2026-09-24 16:01:38,862 INFO aiogram.event: Update id=300357192 is handled. Duration 234 ms by bot id=8691277340
+2026-09-24 16:01:41,514 INFO aiogram.event: Update id=300357193 is handled. Duration 358 ms by bot id=8691277340
+2026-09-24 16:01:44,721 INFO aiogram.event: Update id=300357194 is handled. Duration 250 ms by bot id=8691277340
+2026-09-24 16:01:46,852 INFO aiogram.event: Update id=300357195 is handled. Duration 266 ms by bot id=8691277340
+2026-09-24 16:01:49,552 INFO aiogram.event: Update id=300357196 is handled. Duration 235 ms by bot id=8691277340
+2026-09-24 16:01:51,633 INFO aiogram.event: Update id=300357197 is handled. Duration 311 ms by bot id=8691277340
+2026-09-24 16:01:53,521 INFO aiogram.event: Update id=300357198 is handled. Duration 312 ms by bot id=8691277340
+2026-09-24 16:01:55,098 INFO aiogram.event: Update id=300357199 is handled. Duration 312 ms by bot id=8691277340
+2026-09-24 16:01:56,790 INFO aiogram.event: Update id=300357200 is handled. Duration 266 ms by bot id=8691277340
+2026-09-24 16:01:59,011 INFO aiogram.event: Update id=300357201 is handled. Duration 280 ms by bot id=8691277340
+2026-09-24 16:02:01,348 INFO aiogram.event: Update id=300357202 is handled. Duration 375 ms by bot id=8691277340
+2026-09-24 16:02:10,660 INFO aiogram.event: Update id=300357203 is handled. Duration 156 ms by bot id=8691277340
+2026-09-24 16:02:16,440 INFO aiogram.event: Update id=300357205 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:02:16,457 INFO aiogram.event: Update id=300357204 is handled. Duration 438 ms by bot id=8691277340
+2026-09-24 16:04:13,034 INFO aiogram.event: Update id=300357206 is handled. Duration 141 ms by bot id=8691277340
+2026-09-24 16:04:18,799 INFO aiogram.event: Update id=300357207 is handled. Duration 250 ms by bot id=8691277340
+2026-09-24 16:04:25,027 INFO aiogram.event: Update id=300357208 is handled. Duration 233 ms by bot id=8691277340
+2026-09-24 16:04:27,667 INFO aiogram.event: Update id=300357209 is handled. Duration 297 ms by bot id=8691277340
+2026-09-24 16:04:50,915 INFO aiogram.event: Update id=300357211 is handled. Duration 141 ms by bot id=8691277340
+2026-09-24 16:04:51,244 INFO aiogram.event: Update id=300357210 is handled. Duration 2140 ms by bot id=8691277340
+2026-09-24 16:04:54,890 INFO aiogram.event: Update id=300357212 is handled. Duration 2233 ms by bot id=8691277340
+2026-09-24 16:04:57,859 INFO aiogram.event: Update id=300357213 is handled. Duration 2187 ms by bot id=8691277340
+2026-09-24 16:04:58,695 INFO aiogram.event: Update id=300357214 is handled. Duration 141 ms by bot id=8691277340
+2026-09-24 16:05:02,108 INFO aiogram.event: Update id=300357216 is handled. Duration 156 ms by bot id=8691277340
+2026-09-24 16:05:02,469 INFO aiogram.event: Update id=300357215 is handled. Duration 2233 ms by bot id=8691277340
+2026-09-24 16:05:05,447 INFO aiogram.event: Update id=300357217 is handled. Duration 2172 ms by bot id=8691277340
+2026-09-24 16:05:09,087 INFO app.events: Не удалось замутить 7292522360 в -1003953236351: Telegram server says - Bad Request: can't remove chat owner
+2026-09-24 16:05:09,416 INFO aiogram.event: Update id=300357218 is handled. Duration 562 ms by bot id=8691277340
+2026-09-24 16:05:12,128 INFO aiogram.event: Update id=300357219 is handled. Duration 140 ms by bot id=8691277340
+2026-09-24 16:05:12,860 INFO aiogram.event: Update id=300357220 is handled. Duration 109 ms by bot id=8691277340
+2026-09-24 16:05:13,851 INFO aiogram.event: Update id=300357221 is handled. Duration 156 ms by bot id=8691277340
+2026-09-24 16:05:14,169 INFO aiogram.event: Update id=300357222 is handled. Duration 172 ms by bot id=8691277340
+2026-09-24 16:05:14,330 INFO aiogram.event: Update id=300357223 is handled. Duration 156 ms by bot id=8691277340
+2026-09-24 16:05:14,603 INFO aiogram.event: Update id=300357225 is handled. Duration 156 ms by bot id=8691277340
+2026-09-24 16:05:14,673 INFO aiogram.event: Update id=300357224 is handled. Duration 343 ms by bot id=8691277340
+2026-09-24 16:05:14,742 INFO aiogram.event: Update id=300357226 is handled. Duration 140 ms by bot id=8691277340
+2026-09-24 16:05:14,855 INFO aiogram.event: Update id=300357227 is handled. Duration 109 ms by bot id=8691277340
+2026-09-24 16:05:15,068 INFO aiogram.event: Update id=300357228 is handled. Duration 141 ms by bot id=8691277340
+2026-09-24 16:05:15,185 INFO aiogram.event: Update id=300357229 is handled. Duration 108 ms by bot id=8691277340
+2026-09-24 16:05:15,330 INFO aiogram.event: Update id=300357230 is handled. Duration 110 ms by bot id=8691277340
+2026-09-24 16:05:15,818 INFO aiogram.event: Update id=300357231 is handled. Duration 125 ms by bot id=8691277340
+2026-09-24 16:05:15,953 INFO aiogram.event: Update id=300357232 is handled. Duration 156 ms by bot id=8691277340
+2026-09-24 16:05:16,039 INFO aiogram.event: Update id=300357233 is handled. Duration 125 ms by bot id=8691277340
+2026-09-24 16:05:16,276 INFO aiogram.event: Update id=300357234 is handled. Duration 125 ms by bot id=8691277340
+2026-09-24 16:05:16,390 INFO aiogram.event: Update id=300357235 is handled. Duration 125 ms by bot id=8691277340
+2026-09-24 16:05:16,555 INFO aiogram.event: Update id=300357236 is handled. Duration 187 ms by bot id=8691277340
+2026-09-24 16:05:16,688 INFO aiogram.event: Update id=300357237 is handled. Duration 125 ms by bot id=8691277340
+2026-09-24 16:05:16,803 INFO aiogram.event: Update id=300357238 is handled. Duration 125 ms by bot id=8691277340
+2026-09-24 16:05:16,992 INFO aiogram.event: Update id=300357239 is handled. Duration 110 ms by bot id=8691277340
+2026-09-24 16:05:17,195 INFO aiogram.event: Update id=300357240 is handled. Duration 141 ms by bot id=8691277340
+2026-09-24 16:05:17,369 INFO aiogram.event: Update id=300357241 is handled. Duration 171 ms by bot id=8691277340
+2026-09-24 16:05:17,488 INFO aiogram.event: Update id=300357242 is handled. Duration 156 ms by bot id=8691277340
+2026-09-24 16:05:17,623 INFO aiogram.event: Update id=300357243 is handled. Duration 171 ms by bot id=8691277340
+2026-09-24 16:05:19,218 INFO aiogram.event: Update id=300357244 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:19,355 INFO aiogram.event: Update id=300357245 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:19,544 INFO aiogram.event: Update id=300357246 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:19,733 INFO aiogram.event: Update id=300357247 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:19,971 INFO aiogram.event: Update id=300357248 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:20,155 INFO aiogram.event: Update id=300357249 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:20,327 INFO aiogram.event: Update id=300357250 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:20,432 INFO aiogram.event: Update id=300357251 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:20,717 INFO aiogram.event: Update id=300357252 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:20,811 INFO aiogram.event: Update id=300357253 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:20,941 INFO aiogram.event: Update id=300357254 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:21,256 INFO aiogram.event: Update id=300357255 is not handled. Duration 14 ms by bot id=8691277340
+2026-09-24 16:05:21,414 INFO aiogram.event: Update id=300357256 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:22,448 INFO aiogram.event: Update id=300357257 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:05:40,122 INFO aiogram.event: Update id=300357258 is handled. Duration 2187 ms by bot id=8691277340
+2026-09-24 16:05:45,482 INFO aiogram.event: Update id=300357259 is handled. Duration 172 ms by bot id=8691277340
+2026-09-24 16:05:55,993 INFO aiogram.event: Update id=300357260 is handled. Duration 265 ms by bot id=8691277340
+2026-09-24 16:05:57,403 INFO aiogram.event: Update id=300357261 is handled. Duration 250 ms by bot id=8691277340
+2026-09-24 16:06:00,355 INFO aiogram.event: Update id=300357262 is handled. Duration 250 ms by bot id=8691277340
+2026-09-24 16:06:05,338 INFO aiogram.event: Update id=300357263 is handled. Duration 233 ms by bot id=8691277340
+2026-09-24 16:06:38,192 INFO aiogram.event: Update id=300357265 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:06:38,277 INFO aiogram.event: Update id=300357264 is handled. Duration 702 ms by bot id=8691277340
+2026-09-24 16:06:56,788 INFO aiogram.event: Update id=300357266 is handled. Duration 2218 ms by bot id=8691277340
+2026-09-24 16:07:08,825 INFO aiogram.event: Update id=300357268 is handled. Duration 110 ms by bot id=8691277340
+2026-09-24 16:07:10,869 INFO aiogram.event: Update id=300357267 is handled. Duration 2156 ms by bot id=8691277340
+2026-09-24 16:07:19,863 INFO aiogram.event: Update id=300357269 is handled. Duration 2156 ms by bot id=8691277340
+2026-09-24 16:07:31,835 INFO aiogram.event: Update id=300357270 is handled. Duration 187 ms by bot id=8691277340
+2026-09-24 16:07:38,067 INFO aiogram.event: Update id=300357271 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-24 16:07:42,787 INFO app.events: Админ 8245827726 не открыл личку с ботом
+2026-09-24 16:08:37,010 INFO aiogram.event: Update id=300357272 is handled. Duration 139 ms by bot id=8691277340
+2026-09-24 16:08:39,517 INFO aiogram.event: Update id=300357273 is handled. Duration 296 ms by bot id=8691277340
+2026-09-24 16:08:41,564 INFO aiogram.event: Update id=300357274 is handled. Duration 233 ms by bot id=8691277340
+2026-09-24 16:08:43,724 INFO aiogram.event: Update id=300357275 is handled. Duration 375 ms by bot id=8691277340
+2026-09-24 16:08:45,590 INFO aiogram.event: Update id=300357276 is handled. Duration 296 ms by bot id=8691277340
+2026-09-24 16:08:47,318 INFO aiogram.event: Update id=300357277 is handled. Duration 360 ms by bot id=8691277340
+2026-09-24 16:08:49,496 INFO aiogram.event: Update id=300357278 is handled. Duration 360 ms by bot id=8691277340
+2026-09-24 16:09:06,077 INFO aiogram.event: Update id=300357279 is handled. Duration 266 ms by bot id=8691277340
+2026-09-24 16:09:07,318 INFO aiogram.event: Update id=300357280 is handled. Duration 297 ms by bot id=8691277340
+2026-09-24 16:09:09,890 INFO aiogram.event: Update id=300357281 is handled. Duration 280 ms by bot id=8691277340
+2026-09-24 16:09:11,682 INFO aiogram.event: Update id=300357282 is handled. Duration 281 ms by bot id=8691277340
+2026-09-24 16:09:13,953 INFO aiogram.event: Update id=300357283 is handled. Duration 218 ms by bot id=8691277340
+2026-09-24 16:09:17,068 INFO aiogram.event: Update id=300357284 is handled. Duration 250 ms by bot id=8691277340
+2026-09-24 16:09:24,741 INFO aiogram.event: Update id=300357286 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-24 16:09:24,849 INFO aiogram.event: Update id=300357285 is handled. Duration 500 ms by bot id=8691277340
+2026-09-24 17:14:37,899 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-24 17:14:37,900 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 17:14:37,990 WARNING app.events: Не удалось завершить ивент в -1003953236351: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 17:14:38,978 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 17:14:38,978 WARNING aiogram.dispatcher: Sleep for 1.263216 seconds and try again... (tryings = 1, bot id = 8691277340)
+2026-09-24 17:14:40,245 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 17:14:40,245 WARNING aiogram.dispatcher: Sleep for 1.498062 seconds and try again... (tryings = 2, bot id = 8691277340)
+2026-09-24 17:14:41,747 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 17:14:41,747 WARNING aiogram.dispatcher: Sleep for 1.862177 seconds and try again... (tryings = 3, bot id = 8691277340)
+2026-09-24 17:14:43,618 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 17:14:43,618 WARNING aiogram.dispatcher: Sleep for 2.494346 seconds and try again... (tryings = 4, bot id = 8691277340)
+2026-09-24 17:14:46,119 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-24 17:14:46,119 WARNING aiogram.dispatcher: Sleep for 3.123595 seconds and try again... (tryings = 5, bot id = 8691277340)
+2026-09-24 17:15:00,090 INFO aiogram.dispatcher: Connection established (tryings = 6, bot id = 8691277340)
+2026-09-24 17:53:12,987 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-24 17:53:13,001 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 17:53:14,005 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2026-09-24 17:53:14,005 WARNING aiogram.dispatcher: Sleep for 1.339149 seconds and try again... (tryings = 1, bot id = 8691277340)
+2026-09-24 17:53:26,676 INFO aiogram.dispatcher: Connection established (tryings = 2, bot id = 8691277340)
+2026-09-24 17:55:58,732 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 64] Указанное сетевое имя более недоступно
+2026-09-24 17:55:58,733 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 17:56:10,093 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8691277340)
+2026-09-24 19:15:35,929 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2026-09-24 19:15:35,938 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 19:15:37,617 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2026-09-24 19:15:37,618 WARNING aiogram.dispatcher: Sleep for 1.218135 seconds and try again... (tryings = 1, bot id = 8691277340)
+2026-09-24 19:15:39,517 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2026-09-24 19:15:39,518 WARNING aiogram.dispatcher: Sleep for 1.360784 seconds and try again... (tryings = 2, bot id = 8691277340)
+2026-09-24 19:15:42,257 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2026-09-24 19:15:42,257 WARNING aiogram.dispatcher: Sleep for 1.838157 seconds and try again... (tryings = 3, bot id = 8691277340)
+2026-09-24 19:15:45,276 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2026-09-24 19:15:45,276 WARNING aiogram.dispatcher: Sleep for 2.555332 seconds and try again... (tryings = 4, bot id = 8691277340)
+2026-09-24 19:15:48,096 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Подключение к сети было разорвано локальной системой]
+2026-09-24 19:15:48,097 WARNING aiogram.dispatcher: Sleep for 3.323851 seconds and try again... (tryings = 5, bot id = 8691277340)
+2026-09-24 19:15:52,073 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2026-09-24 19:15:52,074 WARNING aiogram.dispatcher: Sleep for 4.245287 seconds and try again... (tryings = 6, bot id = 8691277340)
+2026-09-24 19:15:57,771 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Подключение к сети было разорвано локальной системой]
+2026-09-24 19:15:57,771 WARNING aiogram.dispatcher: Sleep for 4.876332 seconds and try again... (tryings = 7, bot id = 8691277340)
+2026-09-24 19:16:13,265 INFO aiogram.dispatcher: Connection established (tryings = 8, bot id = 8691277340)
+2026-09-24 19:32:33,169 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2026-09-24 19:32:33,181 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 19:32:55,204 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-09-24 19:32:55,205 WARNING aiogram.dispatcher: Sleep for 1.243788 seconds and try again... (tryings = 1, bot id = 8691277340)
+2026-09-24 19:33:07,464 INFO aiogram.dispatcher: Connection established (tryings = 2, bot id = 8691277340)
+2026-09-24 19:39:48,139 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2026-09-24 19:39:48,144 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-24 19:39:59,548 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8691277340)
+2026-09-25 07:12:05,736 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-25 07:12:05,761 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-25 07:12:06,774 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-25 07:12:06,775 WARNING aiogram.dispatcher: Sleep for 1.290442 seconds and try again... (tryings = 1, bot id = 8691277340)
+2026-09-25 07:12:08,070 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-25 07:12:08,072 WARNING aiogram.dispatcher: Sleep for 1.659310 seconds and try again... (tryings = 2, bot id = 8691277340)
+2026-09-25 07:12:09,739 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-25 07:12:09,740 WARNING aiogram.dispatcher: Sleep for 2.075359 seconds and try again... (tryings = 3, bot id = 8691277340)
+2026-09-25 07:12:22,717 INFO aiogram.dispatcher: Connection established (tryings = 4, bot id = 8691277340)
+2026-09-25 12:18:48,163 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-25 12:18:48,164 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-25 12:18:49,175 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-25 12:18:49,175 WARNING aiogram.dispatcher: Sleep for 1.358031 seconds and try again... (tryings = 1, bot id = 8691277340)
+2026-09-25 12:18:50,537 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-25 12:18:50,537 WARNING aiogram.dispatcher: Sleep for 1.748573 seconds and try again... (tryings = 2, bot id = 8691277340)
+2026-09-25 12:18:52,290 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-25 12:18:52,290 WARNING aiogram.dispatcher: Sleep for 2.398971 seconds and try again... (tryings = 3, bot id = 8691277340)
+2026-09-25 12:19:05,004 INFO aiogram.dispatcher: Connection established (tryings = 4, bot id = 8691277340)
+2026-09-25 17:03:02,889 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-25 17:03:02,913 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-25 17:03:03,938 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-25 17:03:03,939 WARNING aiogram.dispatcher: Sleep for 1.161558 seconds and try again... (tryings = 1, bot id = 8691277340)
+2026-09-25 17:03:05,106 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-25 17:03:05,106 WARNING aiogram.dispatcher: Sleep for 1.364341 seconds and try again... (tryings = 2, bot id = 8691277340)
+2026-09-25 17:03:06,483 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [getaddrinfo failed]
+2026-09-25 17:03:06,483 WARNING aiogram.dispatcher: Sleep for 1.828379 seconds and try again... (tryings = 3, bot id = 8691277340)
+2026-09-25 17:03:18,799 INFO aiogram.dispatcher: Connection established (tryings = 4, bot id = 8691277340)
+2026-09-25 17:17:19,293 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-09-25 17:17:19,294 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-25 17:17:31,677 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8691277340)
+2026-09-25 17:33:38,338 INFO root: Админ 76222784 ещё не запускал бота в личке
+2026-09-25 17:33:38,817 INFO root: Бот @botfurmebot запущен
+2026-09-25 17:33:38,817 INFO aiogram.dispatcher: Start polling
+2026-09-25 17:33:38,919 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-25 17:37:15,819 INFO aiogram.event: Update id=300357287 is handled. Duration 344 ms by bot id=8691277340
+2026-09-25 17:37:20,171 INFO aiogram.event: Update id=300357288 is handled. Duration 1562 ms by bot id=8691277340
+2026-09-25 17:38:19,222 INFO aiogram.event: Update id=300357289 is handled. Duration 155 ms by bot id=8691277340
+2026-09-25 17:38:22,541 INFO aiogram.event: Update id=300357290 is handled. Duration 407 ms by bot id=8691277340
+2026-09-25 17:38:31,407 INFO aiogram.event: Update id=300357291 is handled. Duration 296 ms by bot id=8691277340
+2026-09-25 17:38:33,338 INFO aiogram.event: Update id=300357292 is handled. Duration 265 ms by bot id=8691277340
+2026-09-25 17:38:37,006 INFO aiogram.event: Update id=300357293 is handled. Duration 296 ms by bot id=8691277340
+2026-09-25 17:38:39,363 INFO aiogram.event: Update id=300357294 is handled. Duration 281 ms by bot id=8691277340
+2026-09-25 17:38:51,637 INFO aiogram.event: Update id=300357295 is handled. Duration 296 ms by bot id=8691277340
+2026-09-25 17:38:54,784 INFO aiogram.event: Update id=300357296 is handled. Duration 593 ms by bot id=8691277340
+2026-09-25 17:38:56,747 INFO aiogram.event: Update id=300357297 is handled. Duration 266 ms by bot id=8691277340
+2026-09-25 17:38:58,921 INFO aiogram.event: Update id=300357298 is handled. Duration 296 ms by bot id=8691277340
+2026-09-25 17:39:02,658 INFO aiogram.event: Update id=300357299 is handled. Duration 453 ms by bot id=8691277340
+2026-09-25 17:39:12,372 INFO root: Админ 76222784 ещё не запускал бота в личке
+2026-09-25 17:39:12,838 INFO root: Бот @botfurmebot запущен
+2026-09-25 17:39:12,838 INFO aiogram.dispatcher: Start polling
+2026-09-25 17:39:12,941 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-25 17:39:13,484 INFO aiogram.event: Update id=300357301 is handled. Duration 421 ms by bot id=8691277340
+2026-09-25 17:39:14,378 INFO aiogram.event: Update id=300357302 is handled. Duration 328 ms by bot id=8691277340
+2026-09-25 17:39:16,612 INFO aiogram.event: Update id=300357303 is handled. Duration 406 ms by bot id=8691277340
+2026-09-25 17:39:23,282 INFO aiogram.event: Update id=300357304 is handled. Duration 5000 ms by bot id=8691277340
+2026-09-25 17:39:23,851 INFO aiogram.event: Update id=300357305 is handled. Duration 796 ms by bot id=8691277340
+2026-09-25 17:39:25,530 INFO aiogram.event: Update id=300357306 is handled. Duration 233 ms by bot id=8691277340
+2026-09-25 17:47:10,420 INFO aiogram.event: Update id=300357307 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 17:50:29,509 INFO aiogram.event: Update id=300357308 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 17:52:32,182 INFO aiogram.event: Update id=300357309 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 17:52:44,128 INFO aiogram.event: Update id=300357310 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 17:54:16,027 INFO aiogram.event: Update id=300357311 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 17:54:27,647 INFO aiogram.event: Update id=300357312 is not handled. Duration 16 ms by bot id=8691277340
+2026-09-25 17:54:31,641 INFO aiogram.event: Update id=300357313 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 17:54:43,207 INFO aiogram.event: Update id=300357314 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 17:54:49,175 INFO aiogram.event: Update id=300357315 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 17:54:50,810 INFO aiogram.event: Update id=300357316 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:05:32,495 INFO aiogram.event: Update id=300357317 is not handled. Duration 47 ms by bot id=8691277340
+2026-09-25 18:05:34,861 INFO aiogram.event: Update id=300357318 is handled. Duration 546 ms by bot id=8691277340
+2026-09-25 18:07:16,910 INFO aiogram.event: Update id=300357319 is handled. Duration 187 ms by bot id=8691277340
+2026-09-25 18:07:23,611 INFO aiogram.event: Update id=300357320 is handled. Duration 141 ms by bot id=8691277340
+2026-09-25 18:07:36,068 INFO aiogram.event: Update id=300357321 is handled. Duration 406 ms by bot id=8691277340
+2026-09-25 18:07:36,568 INFO aiogram.event: Update id=300357322 is handled. Duration 250 ms by bot id=8691277340
+2026-09-25 18:07:49,631 INFO aiogram.event: Update id=300357323 is not handled. Duration 14 ms by bot id=8691277340
+2026-09-25 18:07:51,516 INFO aiogram.event: Update id=300357324 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:07:55,444 INFO aiogram.event: Update id=300357325 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-25 18:23:34,639 INFO aiogram.event: Update id=300357326 is not handled. Duration 14 ms by bot id=8691277340
+2026-09-25 18:23:49,800 INFO aiogram.event: Update id=300357327 is handled. Duration 312 ms by bot id=8691277340
+2026-09-25 18:23:54,394 INFO aiogram.event: Update id=300357328 is handled. Duration 750 ms by bot id=8691277340
+2026-09-25 18:23:59,221 INFO aiogram.event: Update id=300357329 is handled. Duration 467 ms by bot id=8691277340
+2026-09-25 18:24:00,899 INFO aiogram.event: Update id=300357330 is handled. Duration 328 ms by bot id=8691277340
+2026-09-25 18:24:04,783 INFO aiogram.event: Update id=300357331 is handled. Duration 968 ms by bot id=8691277340
+2026-09-25 18:26:16,007 INFO aiogram.event: Update id=300357333 is not handled. Duration 14 ms by bot id=8691277340
+2026-09-25 18:26:16,110 INFO aiogram.event: Update id=300357332 is handled. Duration 671 ms by bot id=8691277340
+2026-09-25 18:26:37,312 INFO aiogram.event: Update id=300357334 is handled. Duration 2203 ms by bot id=8691277340
+2026-09-25 18:29:04,725 INFO app.events: Не удалось замутить 7292522360 в -1003953236351: Telegram server says - Bad Request: can't remove chat owner
+2026-09-25 18:29:04,996 INFO aiogram.event: Update id=300357335 is handled. Duration 500 ms by bot id=8691277340
+2026-09-25 18:29:10,971 INFO aiogram.event: Update id=300357336 is handled. Duration 155 ms by bot id=8691277340
+2026-09-25 18:31:26,566 INFO app.events: Не удалось замутить 7292522360 в -1003953236351: Telegram server says - Bad Request: can't remove chat owner
+2026-09-25 18:31:26,878 INFO aiogram.event: Update id=300357337 is handled. Duration 687 ms by bot id=8691277340
+2026-09-25 18:36:17,286 INFO aiogram.event: Update id=300357338 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:39:29,613 INFO aiogram.event: Update id=300357339 is handled. Duration 2016 ms by bot id=8691277340
+2026-09-25 18:39:29,816 INFO aiogram.event: Update id=300357340 is handled. Duration 344 ms by bot id=8691277340
+2026-09-25 18:39:33,480 INFO aiogram.event: Update id=300357341 is handled. Duration 2016 ms by bot id=8691277340
+2026-09-25 18:39:33,675 INFO aiogram.event: Update id=300357342 is handled. Duration 125 ms by bot id=8691277340
+2026-09-25 18:39:37,705 INFO aiogram.event: Update id=300357343 is handled. Duration 2000 ms by bot id=8691277340
+2026-09-25 18:39:41,019 INFO aiogram.event: Update id=300357344 is handled. Duration 2000 ms by bot id=8691277340
+2026-09-25 18:39:41,247 INFO aiogram.event: Update id=300357345 is handled. Duration 157 ms by bot id=8691277340
+2026-09-25 18:39:45,156 INFO aiogram.event: Update id=300357346 is handled. Duration 2000 ms by bot id=8691277340
+2026-09-25 18:39:45,685 INFO aiogram.event: Update id=300357347 is handled. Duration 125 ms by bot id=8691277340
+2026-09-25 18:39:49,305 INFO aiogram.event: Update id=300357348 is handled. Duration 2015 ms by bot id=8691277340
+2026-09-25 18:39:50,004 INFO aiogram.event: Update id=300357349 is handled. Duration 110 ms by bot id=8691277340
+2026-09-25 18:39:53,925 INFO aiogram.event: Update id=300357350 is handled. Duration 2187 ms by bot id=8691277340
+2026-09-25 18:39:59,592 INFO aiogram.event: Update id=300357351 is handled. Duration 2000 ms by bot id=8691277340
+2026-09-25 18:40:00,351 INFO aiogram.event: Update id=300357352 is handled. Duration 125 ms by bot id=8691277340
+2026-09-25 18:40:04,296 INFO aiogram.event: Update id=300357353 is handled. Duration 2000 ms by bot id=8691277340
+2026-09-25 18:40:09,303 INFO aiogram.event: Update id=300357354 is handled. Duration 2000 ms by bot id=8691277340
+2026-09-25 18:40:10,335 INFO aiogram.event: Update id=300357355 is handled. Duration 125 ms by bot id=8691277340
+2026-09-25 18:40:15,395 INFO aiogram.event: Update id=300357356 is handled. Duration 2000 ms by bot id=8691277340
+2026-09-25 18:40:18,944 INFO aiogram.event: Update id=300357357 is handled. Duration 2015 ms by bot id=8691277340
+2026-09-25 18:40:19,680 INFO aiogram.event: Update id=300357358 is handled. Duration 187 ms by bot id=8691277340
+2026-09-25 18:40:28,853 INFO aiogram.event: Update id=300357359 is handled. Duration 2016 ms by bot id=8691277340
+2026-09-25 18:40:29,547 INFO aiogram.event: Update id=300357360 is handled. Duration 203 ms by bot id=8691277340
+2026-09-25 18:40:45,337 INFO aiogram.event: Update id=300357361 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-25 18:40:47,403 INFO aiogram.event: Update id=300357362 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:42:16,970 INFO aiogram.event: Update id=300357363 is handled. Duration 421 ms by bot id=8691277340
+2026-09-25 18:42:29,942 INFO aiogram.event: Update id=300357364 is handled. Duration 2000 ms by bot id=8691277340
+2026-09-25 18:42:51,227 INFO aiogram.event: Update id=300357365 is handled. Duration 141 ms by bot id=8691277340
+2026-09-25 18:42:58,636 INFO aiogram.event: Update id=300357366 is handled. Duration 280 ms by bot id=8691277340
+2026-09-25 18:43:00,343 INFO aiogram.event: Update id=300357367 is handled. Duration 265 ms by bot id=8691277340
+2026-09-25 18:43:01,352 INFO aiogram.event: Update id=300357368 is handled. Duration 312 ms by bot id=8691277340
+2026-09-25 18:43:03,381 INFO aiogram.event: Update id=300357369 is handled. Duration 858 ms by bot id=8691277340
+2026-09-25 18:43:04,922 INFO aiogram.event: Update id=300357370 is handled. Duration 1046 ms by bot id=8691277340
+2026-09-25 18:43:10,062 INFO aiogram.event: Update id=300357371 is handled. Duration 234 ms by bot id=8691277340
+2026-09-25 18:43:13,187 INFO aiogram.event: Update id=300357372 is handled. Duration 359 ms by bot id=8691277340
+2026-09-25 18:43:15,813 INFO aiogram.event: Update id=300357373 is handled. Duration 312 ms by bot id=8691277340
+2026-09-25 18:43:24,727 INFO aiogram.event: Update id=300357374 is handled. Duration 766 ms by bot id=8691277340
+2026-09-25 18:43:26,897 INFO aiogram.event: Update id=300357375 is handled. Duration 250 ms by bot id=8691277340
+2026-09-25 18:43:38,185 INFO aiogram.event: Update id=300357376 is handled. Duration 250 ms by bot id=8691277340
+2026-09-25 18:43:40,330 INFO aiogram.event: Update id=300357377 is handled. Duration 796 ms by bot id=8691277340
+2026-09-25 18:43:49,617 INFO aiogram.event: Update id=300357378 is handled. Duration 282 ms by bot id=8691277340
+2026-09-25 18:43:50,645 INFO aiogram.event: Update id=300357379 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:43:52,643 INFO aiogram.event: Update id=300357380 is handled. Duration 296 ms by bot id=8691277340
+2026-09-25 18:43:57,507 INFO aiogram.event: Update id=300357381 is handled. Duration 327 ms by bot id=8691277340
+2026-09-25 18:44:11,117 INFO aiogram.event: Update id=300357382 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:44:14,538 INFO aiogram.event: Update id=300357383 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:45:34,700 INFO aiogram.event: Update id=300357384 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:45:38,562 INFO aiogram.event: Update id=300357385 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:45:41,993 INFO aiogram.event: Update id=300357386 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:45:45,555 INFO aiogram.event: Update id=300357387 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-25 18:46:10,161 INFO aiogram.event: Update id=300357388 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:46:11,900 INFO aiogram.event: Update id=300357389 is not handled. Duration 16 ms by bot id=8691277340
+2026-09-25 18:46:16,487 INFO aiogram.event: Update id=300357390 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:46:17,881 INFO aiogram.event: Update id=300357391 is not handled. Duration 14 ms by bot id=8691277340
+2026-09-25 18:46:21,389 INFO aiogram.event: Update id=300357392 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:46:51,731 INFO root: Бот @botfurmebot запущен
+2026-09-25 18:46:51,733 INFO aiogram.dispatcher: Start polling
+2026-09-25 18:46:51,827 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-25 18:47:20,632 INFO aiogram.event: Update id=300357393 is not handled. Duration 14 ms by bot id=8691277340
+2026-09-25 18:47:29,452 INFO aiogram.event: Update id=300357394 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:47:30,926 INFO aiogram.event: Update id=300357395 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:47:33,821 INFO aiogram.event: Update id=300357396 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-25 18:47:36,738 INFO aiogram.event: Update id=300357397 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:47:40,803 INFO aiogram.event: Update id=300357398 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-25 18:47:48,106 INFO aiogram.event: Update id=300357399 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:47:54,472 INFO aiogram.event: Update id=300357400 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:48:00,450 INFO aiogram.event: Update id=300357401 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:48:06,260 INFO aiogram.event: Update id=300357402 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:48:07,946 INFO aiogram.event: Update id=300357403 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-25 18:48:10,054 INFO aiogram.event: Update id=300357404 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-25 18:48:22,552 INFO aiogram.event: Update id=300357405 is not handled. Duration 15 ms by bot id=8691277340
+2026-09-25 18:48:29,240 INFO aiogram.event: Update id=300357406 is not handled. Duration 16 ms by bot id=8691277340
+2026-09-25 18:54:57,052 INFO aiogram.event: Update id=300357407 is handled. Duration 844 ms by bot id=8691277340
+2026-09-25 18:55:03,018 INFO aiogram.event: Update id=300357408 is handled. Duration 250 ms by bot id=8691277340
+2026-09-25 18:55:05,028 INFO aiogram.event: Update id=300357409 is handled. Duration 296 ms by bot id=8691277340
+2026-09-25 18:55:07,656 INFO aiogram.event: Update id=300357410 is handled. Duration 375 ms by bot id=8691277340
+2026-09-25 18:55:15,501 INFO aiogram.event: Update id=300357411 is handled. Duration 282 ms by bot id=8691277340
+2026-09-25 18:55:20,801 INFO aiogram.event: Update id=300357412 is handled. Duration 844 ms by bot id=8691277340
+2026-09-25 18:55:22,841 INFO aiogram.event: Update id=300357413 is handled. Duration 390 ms by bot id=8691277340
+2026-09-25 18:56:52,603 INFO aiogram.event: Update id=300357414 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 18:57:39,432 INFO aiogram.event: Update id=300357415 is handled. Duration 250 ms by bot id=8691277340
+2026-09-25 18:57:41,819 INFO aiogram.event: Update id=300357416 is handled. Duration 421 ms by bot id=8691277340
+2026-09-25 18:57:44,456 INFO aiogram.event: Update id=300357417 is handled. Duration 750 ms by bot id=8691277340
+2026-09-25 18:57:46,105 INFO aiogram.event: Update id=300357418 is handled. Duration 266 ms by bot id=8691277340
+2026-09-25 18:57:47,755 INFO aiogram.event: Update id=300357419 is handled. Duration 219 ms by bot id=8691277340
+2026-09-25 18:57:51,339 INFO aiogram.event: Update id=300357420 is handled. Duration 296 ms by bot id=8691277340
+2026-09-25 18:57:54,280 INFO aiogram.event: Update id=300357421 is handled. Duration 280 ms by bot id=8691277340
+2026-09-25 18:57:56,601 INFO aiogram.event: Update id=300357422 is handled. Duration 296 ms by bot id=8691277340
+2026-09-25 18:57:58,711 INFO aiogram.event: Update id=300357423 is handled. Duration 421 ms by bot id=8691277340
+2026-09-25 18:58:00,748 INFO aiogram.event: Update id=300357424 is handled. Duration 407 ms by bot id=8691277340
+2026-09-25 18:58:02,934 INFO aiogram.event: Update id=300357425 is handled. Duration 297 ms by bot id=8691277340
+2026-09-25 18:58:17,575 INFO aiogram.event: Update id=300357426 is handled. Duration 421 ms by bot id=8691277340
+2026-09-25 19:54:51,819 INFO root: Бот @botfurmebot запущен
+2026-09-25 19:54:51,822 INFO aiogram.dispatcher: Start polling
+2026-09-25 19:54:51,917 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-25 19:55:35,609 INFO aiogram.event: Update id=300357428 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-25 19:55:35,704 INFO aiogram.event: Update id=300357427 is handled. Duration 671 ms by bot id=8691277340
+2026-09-25 19:55:43,105 INFO aiogram.event: Update id=300357429 is handled. Duration 141 ms by bot id=8691277340
+2026-09-25 21:56:02,254 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 64] Указанное сетевое имя более недоступно
+2026-09-25 21:56:02,264 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8691277340)
+2026-09-25 21:56:13,695 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8691277340)
+2026-09-25 22:19:09,954 INFO aiogram.event: Update id=300357430 is handled. Duration 437 ms by bot id=8691277340
+2026-09-25 22:19:15,047 INFO aiogram.event: Update id=300357431 is handled. Duration 171 ms by bot id=8691277340
+2026-09-27 13:28:21,630 INFO root: Бот @botfurmebot запущен
+2026-09-27 13:28:21,630 INFO aiogram.dispatcher: Start polling
+2026-09-27 13:28:21,732 INFO aiogram.dispatcher: Run polling for bot @botfurmebot id=8691277340 - 'тест'
+2026-09-27 13:28:22,215 INFO aiogram.event: Update id=300358949 is handled. Duration 390 ms by bot id=8691277340
+2026-09-27 13:28:34,635 INFO aiogram.event: Update id=300358950 is handled. Duration 171 ms by bot id=8691277340
+2026-09-27 13:28:43,713 INFO aiogram.event: Update id=300358951 is handled. Duration 328 ms by bot id=8691277340
+2026-09-27 13:28:50,796 INFO aiogram.event: Update id=300358953 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-27 13:28:50,826 INFO aiogram.event: Update id=300358952 is handled. Duration 500 ms by bot id=8691277340
+2026-09-27 13:31:13,015 INFO aiogram.event: Update id=300358954 is not handled. Duration 31 ms by bot id=8691277340
+2026-09-27 13:31:17,652 INFO aiogram.event: Update id=300358955 is handled. Duration 2172 ms by bot id=8691277340
+2026-09-27 13:31:27,602 INFO aiogram.event: Update id=300358956 is not handled. Duration 0 ms by bot id=8691277340
+2026-09-27 13:31:32,535 INFO aiogram.event: Update id=300358957 is handled. Duration 141 ms by bot id=8691277340
+2026-09-27 13:31:35,222 INFO aiogram.event: Update id=300358958 is handled. Duration 672 ms by bot id=8691277340
+2026-09-27 13:31:39,160 INFO aiogram.event: Update id=300358959 is handled. Duration 797 ms by bot id=8691277340
+2026-09-27 13:31:41,917 INFO aiogram.event: Update id=300358960 is handled. Duration 406 ms by bot id=8691277340
+2026-09-27 13:32:28,732 INFO aiogram.event: Update id=300358961 is handled. Duration 265 ms by bot id=8691277340
+2026-09-27 13:32:33,406 INFO aiogram.event: Update id=300358962 is handled. Duration 297 ms by bot id=8691277340
+2026-09-27 13:32:35,258 INFO aiogram.event: Update id=300358963 is handled. Duration 406 ms by bot id=8691277340
+2026-09-27 13:32:38,579 INFO aiogram.event: Update id=300358964 is handled. Duration 375 ms by bot id=8691277340
+2026-09-27 13:32:44,000 INFO app.events: Не удалось замутить 7292522360 в -1003953236351: Telegram server says - Bad Request: can't remove chat owner
+2026-09-27 13:32:44,417 INFO aiogram.event: Update id=300358965 is handled. Duration 687 ms by bot id=8691277340
+2026-09-27 13:32:47,635 INFO aiogram.event: Update id=300358966 is handled. Duration 125 ms by bot id=8691277340
+2026-09-27 13:32:48,618 INFO aiogram.event: Update id=300358967 is handled. Duration 125 ms by bot id=8691277340
+2026-09-27 13:32:49,225 INFO aiogram.event: Update id=300358968 is handled. Duration 109 ms by bot id=8691277340
+2026-09-27 13:32:49,736 INFO aiogram.event: Update id=300358969 is handled. Duration 125 ms by bot id=8691277340
+2026-09-27 13:32:50,099 INFO aiogram.event: Update id=300358970 is handled. Duration 109 ms by bot id=8691277340
+2026-09-27 13:32:50,848 INFO aiogram.event: Update id=300358971 is handled. Duration 218 ms by bot id=8691277340
+2026-09-27 13:32:51,197 INFO aiogram.event: Update id=300358972 is handled. Duration 187 ms by bot id=8691277340
+2026-09-27 13:32:51,565 INFO aiogram.event: Update id=300358973 is handled. Duration 125 ms by bot id=8691277340
